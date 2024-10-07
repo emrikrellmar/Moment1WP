@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "../../../moment0"
+        },
+        {
+            "path": "../.."
+        },
+        {
+            "path": "../../../scss-egytalk-main"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "scss-egytalk-main"
+    }
+}
